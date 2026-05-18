@@ -212,3 +212,7 @@ Esta arquitectura facilita agregar nuevos módulos (por ejemplo `app/reportes/` 
 ![Captura 8](app/images/ejem8.png)
 ![Captura 9](app/images/ejem9.png)
 ![Captura 10](app/images/ejem10.png)
+
+###  Sustentación 
+
+*   **Enlace al video (Loom):** https://www.loom.com/share/f59d746fcea04419b5931bc5876e798f
